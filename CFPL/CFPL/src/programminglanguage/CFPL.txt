@@ -1,0 +1,5 @@
+VAR y AS INT
+START
+y = -(5*9)
+OUTPUT: y
+STOP
