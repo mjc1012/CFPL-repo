@@ -22,8 +22,10 @@ Arithmetic operators
 3. +, - - addition, subtraction
 
 Unary operator
-4. (+) - positive
-5. (-) - negative
+
+1. (+) - positive
+
+2. (-) - negative
 
 Sample Programs
 1. Sample Program 1:
