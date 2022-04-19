@@ -17,16 +17,17 @@ Data Types:
 
 Operators:
 Arithmetic operators
-( ) - parenthesis
-*, /, % - multiplication, division, modulo
-+, - - addition, subtraction
+1. ( ) - parenthesis
+2. *, /, % - multiplication, division, modulo
+3. +, - - addition, subtraction
 
 Unary operator
-+ - positive
-- - negative
+1. + - positive
+2. - - negative
 
 Sample Programs
 1. Sample Program 1:
+
 VAR xyz, abc=100 AS INT
 START
 xyz= ((abc *5)/10 + 10) * -1
@@ -37,7 +38,8 @@ Output of the Sample Program 1:
 [-60]
 
 2. Sample Program 2:
-3. VAR abc, b, c AS INT
+
+VAR abc, b, c AS INT
 VAR x, w_23=’w’ AS CHAR
 VAR t=”TRUE” AS BOOL
 START
