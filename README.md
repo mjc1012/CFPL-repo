@@ -58,12 +58,13 @@ abc=b=10
 
 w_23=’a
 
-OUTPUT: abc & “hi” & b & “#” & w_23
+OUTPUT: abc & “hi” & b & “#” & “#” & w_23
 
 STOP
 
 Output of the Sample Program 2:
 
 10hi10
+
 a
 
