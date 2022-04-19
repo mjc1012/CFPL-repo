@@ -65,6 +65,5 @@ STOP
 Output of the Sample Program 2:
 
 10hi10
-
 a
 
