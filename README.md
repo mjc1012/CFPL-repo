@@ -41,6 +41,7 @@ OUTPUT: “[” & xyz & “]”
 STOP
 
 Output of the Sample Program 1:
+
 [-60]
 
 2. Sample Program 2:
@@ -62,6 +63,8 @@ OUTPUT: abc & “hi” & b & “#” & w_23
 STOP
 
 Output of the Sample Program 2:
+
 10hi10
+
 a
 
