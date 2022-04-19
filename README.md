@@ -39,7 +39,7 @@ Output of the Sample Program 1:
 
 2. Sample Program 2:
 
-VAR abc, b, c AS INT
+VAR abc, b, c AS INT \n
 VAR x, w_23=’w’ AS CHAR
 VAR t=”TRUE” AS BOOL
 START
