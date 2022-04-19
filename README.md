@@ -29,9 +29,13 @@ Sample Programs
 1. Sample Program 1:
 
 VAR xyz, abc=100 AS INT
+
 START
+
 xyz= ((abc *5)/10 + 10) * -1
+
 OUTPUT: “[” & xyz & “]”
+
 STOP
 
 Output of the Sample Program 1:
@@ -39,15 +43,22 @@ Output of the Sample Program 1:
 
 2. Sample Program 2:
 
-VAR abc, b, c AS INT \n
+VAR abc, b, c AS INT
+
 VAR x, w_23=’w’ AS CHAR
+
 VAR t=”TRUE” AS BOOL
+
 START
+
 abc=b=10
+
 w_23=’a
 
 OUTPUT: abc & “hi” & b & “#” & w_23
+
 STOP
+
 Output of the Sample Program 2:
 10hi10
 a
