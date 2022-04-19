@@ -17,13 +17,13 @@ Data Types:
 
 Operators:
 Arithmetic operators
-( ) - parenthesis
-*, /, % - multiplication, division, modulo
-+, - - addition, subtraction
+1. ( ) - parenthesis
+2. *, /, % - multiplication, division, modulo
+3. +, - - addition, subtraction
 
 Unary operator
-(+) - positive
-(-) - negative
+4. (+) - positive
+5. (-) - negative
 
 Sample Programs
 1. Sample Program 1:
